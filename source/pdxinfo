@@ -1,0 +1,6 @@
+name=AdmitAttrition
+author=Alex Stroot
+description=Simple card game where you try to win best of 5 columns
+bundleID=com.alexicon.package
+version=1.0
+buildNumber=3
